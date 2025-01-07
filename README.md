@@ -1,5 +1,2 @@
-Hi, I am McSnurtle, as you can see.
-I have a distructive rabbit (@princess_oreo_bunny on Insta)
-and I am just new to coding, to start out I am using Python and C#!
-
-Have a good day!
+I am McSnurtle, a hobbyist python programmer with experience in ML, UI, game dev, and networking.
+I host several servers in my homelab, and love customizing keyboards. At least I did before I blew up my super tricked out FB60 by running 20V power into the USB C port, literally watching it catch fire :|
